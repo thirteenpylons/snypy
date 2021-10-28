@@ -1,5 +1,6 @@
 # snypy
 
+Take an alternative approach to webscraping -> use Selenium
 Snypy will return the price of item(s) provided throughout the day.
 
 Goals:
